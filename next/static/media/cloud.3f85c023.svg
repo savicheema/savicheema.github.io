@@ -1,0 +1,19 @@
+<svg id="svg" width="400" height="400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" style="z-index: 1;"><linearGradient id="cloudBodyGradient" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="repeat"><stop offset="0%" stop-color="hsl(50.6,100%,45%)"></stop><stop offset="100%" stop-color="hsl(45, 100%, 90%)"></stop></linearGradient><path d="M 162 104 C 156 20 260 -8 254 84 C 260 -5 364 -50 356 104 C 426 58 400  432 324 344
+    332   364  264 440 200 348
+    206 364 92 392 68 312
+    -14 332 -29 156 68 164 Q
+    76 60 162 104" fill="url(#cloudBodyGradient)"></path><path></path><linearGradient id="cloudBodyGradient" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="repeat"><stop offset="0%" stop-color="hsl(50.6,100%,45%)"></stop><stop offset="100%" stop-color="hsl(45, 100%, 90%)"></stop></linearGradient><path d="M 162 104 C 156 20 260 -8 254 84 C 260 -5 364 -50 356 104 C 426 58 400  432 324 344
+    332   364  264 440 200 348
+    206 364 92 392 68 312
+    -14 332 -29 156 68 164 Q
+    76 60 162 104" fill="url(#cloudBodyGradient)"></path><path></path><linearGradient id="cloudBodyGradient" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="repeat"><stop offset="0%" stop-color="hsl(50.6,100%,45%)"></stop><stop offset="100%" stop-color="hsl(45, 100%, 90%)"></stop></linearGradient><path d="M 162 104 C 156 20 260 -8 254 84 C 260 -5 364 -50 356 104 C 426 58 400  432 324 344
+    332   364  264 440 200 348
+    206 364 92 392 68 312
+    -14 332 -29 156 68 164 Q
+    76 60 162 104" fill="url(#cloudBodyGradient)"></path><path d="M 
+    391 267 C 384 272 418 388 328 364 332 356 280 446 204 368 204 380 136 420 68 336 80 332 2 368 2 255 20 328 55 308 68 312 118 419 228 329 201 348 242 416 311 392 319 344 320 320 365 420 391 267"></path><linearGradient id="cloudBodyGradient" x1="0.5" y1="0" x2="0.5" y2="1" spreadMethod="repeat"><stop offset="0%" stop-color="hsl(50.6,100%,45%)"></stop><stop offset="100%" stop-color="hsl(45, 100%, 90%)"></stop></linearGradient><path d="M 162 104 C 156 20 260 -8 254 84 C 260 -5 364 -50 356 104 C 426 58 400  432 324 344
+    332   364  264 440 200 348
+    206 364 92 392 68 312
+    -14 332 -29 156 68 164 Q
+    76 60 162 104" fill="url(#cloudBodyGradient)"></path><path d="M 
+    391 267 C 384 272 418 388 328 364 332 356 280 446 204 368 204 380 136 420 68 336 80 332 2 368 2 255 20 328 55 308 68 312 118 419 228 329 201 348 242 416 311 392 319 344 320 320 365 420 391 267" fill="hsl(40,100%,97%)"></path></svg>
